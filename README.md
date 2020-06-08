@@ -1,5 +1,5 @@
 # FloodRehabilitaionProject
-A project created as part of completing mini project for Application and Software Development Lab of S5 CSE of KTU University.
+A project created as part of completing mini project for Application and Software Development(ASD) Lab of S5 CSE of KTU University.
 
 Login Page
 ![Login Page](https://github.com/RahulMahesh62/FloodRehabilitaionProject/blob/master/images/login.PNG)
